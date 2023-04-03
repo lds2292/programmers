@@ -1,4 +1,4 @@
-package com.study.brown;
+package com.study.brown.solution1845;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
