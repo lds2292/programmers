@@ -1,6 +1,5 @@
 package com.study.brown.solution42577;
 
-import com.study.brown.solution42576.Solution42576;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
@@ -17,6 +16,6 @@ public class SolutionTest {
 
         Solution42577 solution42577 = new Solution42577();
 
-        System.out.println(solution42577.solution(phoneBook[2]));
+        System.out.println(solution42577.solution(phoneBook[0]));
     }
 }
