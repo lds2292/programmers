@@ -1,4 +1,4 @@
-package com.study.brown.solution1845;
+package com.study.brown.hash.solution1845;
 
 import java.util.HashSet;
 
